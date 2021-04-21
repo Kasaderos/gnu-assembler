@@ -1,0 +1,2 @@
+gcc -m32 main.c prog1.s -o prog1
+

@@ -1,0 +1,3 @@
+as --32 argv.s -o prog.o
+gcc -m32 -nostdlib prog.o
+nvim /usr/include/asm/unistd_32.h
